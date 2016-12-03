@@ -17,13 +17,13 @@
                                         <key>kind</key>
                                         <string>display-image</string>
                                         <key>url</key>
-                                        <string>http://banben.ballmove.com/icon.57x57.png</string>
+                                        <string>http://banben.ballmove.com/icon57.png</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
                                         <string>full-size-image</string>
                                         <key>url</key>
-                                        <string>http://banben.ballmove.com/icon.512x512.jpg</string>
+                                        <string>http://banben.ballmove.com/icon512.png</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
